@@ -54,6 +54,22 @@ if ( !defined( 'AFFILIATES_CORE_VERSION' ) ) {
 		require_once AFFILIATES_EXTERNAL_LIB . '/CMB2/init.php';
 	}
 
+	/**
+	 * Plugin Update Checker
+	 * @author info@zindo.info
+	 * 
+	 */
+	require_once AFFILIATES_EXTERNAL_LIB . 'plugin-update-checker/plugin-update-checker.php';
+	$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+		'https://github.com/zindont/ihometour-affiliates',
+		__FILE__,
+		'ihometour-affiliates'
+	);
+
+
+	//Optional: Set the branch that contains the stable release.
+	$myUpdateChecker->setBranch('master');
+
 	require_once( AFFILIATES_CORE_LIB . '/constants.php' );
 	require_once( AFFILIATES_CORE_LIB . '/wp-init.php');
 }
