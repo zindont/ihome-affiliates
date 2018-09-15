@@ -20,7 +20,7 @@
  * Plugin Name: iHomeTour Affiliates
  * Plugin URI: https://ihometour.vn/
  * Description: Affiliate plugin cho iHomeTour
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Linh Ân
  * Author URI: https://zindo.info
  * Text Domain: affiliates
@@ -28,7 +28,7 @@
  * License: GPLv3
  */
 if ( !defined( 'AFFILIATES_CORE_VERSION' ) ) {
-	define( 'AFFILIATES_CORE_VERSION', '1.0.4.4' );
+	define( 'AFFILIATES_CORE_VERSION', '1.0.5' );
 	define( 'AFFILIATES_PLUGIN_NAME', 'ihometour-affiliates' );
 	define( 'AFFILIATES_FILE', __FILE__ );
 	define( 'AFFILIATES_PLUGIN_BASENAME', plugin_basename( AFFILIATES_FILE ) );
