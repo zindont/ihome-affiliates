@@ -59,7 +59,7 @@ if ( !defined( 'AFFILIATES_CORE_VERSION' ) ) {
 	 * @author info@zindo.info
 	 * 
 	 */
-	require_once AFFILIATES_EXTERNAL_LIB . 'plugin-update-checker/plugin-update-checker.php';
+	require_once AFFILIATES_EXTERNAL_LIB . '/plugin-update-checker/plugin-update-checker.php';
 	$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 		'https://github.com/zindont/ihometour-affiliates',
 		__FILE__,
