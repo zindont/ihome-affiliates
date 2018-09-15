@@ -24,7 +24,12 @@ Plugins quản lý hoa hồng cộng tác viên cho ihometour.vn
 1. Đang cập nhật
 
 == Upgrade Notice ==
-1. Đang cập nhật
+
+= 1.0.5 =
+Cập nhật readme.txt
+
+= 1.0 =
+Đang Cập Nhật
 
 == Screenshots ==
 1. Đang cập nhật
