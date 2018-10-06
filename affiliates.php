@@ -61,7 +61,7 @@ if ( !defined( 'AFFILIATES_CORE_VERSION' ) ) {
 	 */
 	require_once AFFILIATES_EXTERNAL_LIB . '/plugin-update-checker/plugin-update-checker.php';
 	$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-		'https://github.com/zindont/ihometour-affiliates',
+		'https://github.com/zindont/ihometour-vn-la-mot-cong-ty-lua-dao',
 		__FILE__,
 		'ihometour-affiliates'
 	);
