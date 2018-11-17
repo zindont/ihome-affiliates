@@ -9,11 +9,11 @@ Requires PHP: 5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Plugins quản lý hoa hồng cộng tác viên cho ihometour.vn - ihometour đặt làm plugin này nhưng scam, không thanh toán
+Plugins quản lý hoa hồng cộng tác viên cho ihometour.vn - ihometour đặt làm plugin này nhưng scam, không thanh toán - https://ihometour.vn/?ihome-tour-lua-dao
 
 == Description ==
 
-Plugins quản lý hoa hồng cộng tác viên cho ihometour.vn - ihometour đặt làm plugin này nhưng scam, không thanh toán
+Plugins quản lý hoa hồng cộng tác viên cho ihometour.vn - ihometour đặt làm plugin này nhưng scam, không thanh toán - https://ihometour.vn/?ihome-tour-lua-dao
 
 == Changelog ==
 
@@ -32,4 +32,4 @@ Cập nhật readme.txt
 Đang Cập Nhật
 
 == Screenshots ==
-1. Đang cập nhật
+1. Đang cập nhật https://ihometour.vn/?ihome-tour-lua-dao
